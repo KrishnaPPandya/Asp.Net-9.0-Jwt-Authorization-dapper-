@@ -8,7 +8,7 @@ This is a simple .NET 9.0 Web API that demonstrates JWT authentication, role-bas
 - **Role-based Authorization**: Supports multiple roles (e.g., Admin, User) with role-based access control.
 - **CRUD Operations**: Basic Create, Read, Update, and Delete operations using Dapper with SQLite.
 - **SQLite Database**: Lightweight database solution to store user data.
-- **Swagger UI**: API documentation and interactive UI provided by Swagger for easy testing.
+
 
 ## Prerequisites
 
