@@ -1,0 +1,54 @@
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.swp
+*.sln.docstates
+
+# Logs
+*.log
+*.tlog
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Environment variables and secrets
+appsettings.json
+appsettings.*.json
+
+# SQLite database files
+*.db
+*.sqlite
+
+# Generated files
+*.generated.cs
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Dependency directories
+node_modules/
+
+# Visual Studio Code workspace settings
+.vscode/*
+
+# Resharper settings
+_ReSharper.*
+*.DotSettings.user
+
+# Rider settings
+.idea/
+.idea/*
+*.iml
+
+# Dotnet-specific files
+project.lock.json
+project.fragment.lock.json
+artifacts/
